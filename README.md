@@ -69,19 +69,13 @@ Nginx
 
 ---
 
-# 📊 GitHub Stats
-
 <p align="center">
 
-## 📈 Contribution Activity
-
-## 📊 GitHub Summary
+## 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cmuhirwa&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cmuhirwa&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cmuhirwa&theme=tokyonight)
 </p>
 
 ---
