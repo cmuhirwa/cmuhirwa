@@ -73,12 +73,15 @@ Nginx
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cmuhirwa&show_icons=true&theme=tokyonight"/>
+## 📈 Contribution Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cmuhirwa&theme=tokyonight"/>
+## 📊 GitHub Summary
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmuhirwa&layout=compact&theme=tokyonight"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cmuhirwa&theme=tokyonight)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cmuhirwa&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cmuhirwa&theme=tokyonight)
 </p>
 
 ---
