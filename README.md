@@ -1,4 +1,3 @@
-}
 <h1 align="center">Hi 👋, I'm Clement Muhirwa</h1>
 
 <p align="center">
@@ -29,11 +28,13 @@ JavaScript
 TypeScript
 Java
 Python
+Dart
 
 ### Frontend
 
 React
 React Native
+Flutter
 
 ### Backend
 
@@ -46,6 +47,7 @@ FastAPI
 PostgreSQL
 MySQL
 Redis
+Mongo
 
 ### DevOps
 
@@ -55,15 +57,15 @@ Nginx
 
 ---
 
-# 🌍 Projects & Impact
+# 🌍 Platforms & Systems I've Built
 
-I have built or contributed to platforms including:
-
-- 📚 Education systems serving millions of students
-- 💰 Digital banking and financial platforms
-- 💼 Casual Payroll – automation for casual worker payments
-- 🎓 National systems for managing education exams and teacher data
+- 📚 Education platforms serving millions of students and hundreds of thousands of teachers
+- 💰 Digital banking & fintech platforms
+- 👥 Large-scale employment management systems for public sector recruitment
 - 📖 University Library Management Systems
+- 💼 HR & payroll automation platforms
+- 🤖 AI-powered personal finance management tools
+- 🧠 AI-driven assessment and psychometric testing systems
 
 ---
 
@@ -101,6 +103,6 @@ I'm open to collaborating on impactful projects in:
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/cmuhi rwa/cmuhi rwa/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/cmuhirwa/cmuhirwa/blob/output/github-contribution-grid-snake.svg)
 
 -
