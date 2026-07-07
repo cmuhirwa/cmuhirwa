@@ -10,7 +10,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 - 💻 Full-stack developer building scalable systems
 - 🧠 Interested in AI-powered applications
